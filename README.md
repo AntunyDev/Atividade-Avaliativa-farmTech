@@ -34,3 +34,5 @@ O sistema permite consultar dados meteorológicos como:
 ## Autor
 
 Antuny Marques | Projeto acadêmico desenvolvido para a FIAP.
+## Co-autor
+Tiago Santos - RM570935
